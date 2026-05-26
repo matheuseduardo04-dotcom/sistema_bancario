@@ -1,7 +1,7 @@
 <h1 align="center">Sistema Bancário em Python</h1>
 
 <p align="center">
-  <img src="https://hermes.dio.me/assets/denykarlos/dio-icon.svg" alt="DIO Logo" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/49228289?s=200&v=4" alt="DIO Logo" height="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" height="80"/>
 </p>
