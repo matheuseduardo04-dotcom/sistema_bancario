@@ -1,19 +1,18 @@
 <h1 align="center">Sistema Bancário em Python</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/49228289?s=200&v=4" alt="DIO Logo" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" height="80"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Bootcamp-Back--End%20com%20Python-EC0000?style=for-the-badge&logo=santander&logoColor=white" alt="Santander Bootcamp"/>
+  <img src="https://img.shields.io/badge/Plataforma-DIO-00C86F?style=for-the-badge" alt="DIO"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/DIO-Bootcamp-00C86F?style=for-the-badge" alt="DIO"/>
 </p>
 
 ## Sobre o Projeto
 
-Este projeto é um desafio da [**Digital Innovation One (DIO)**](https://www.dio.me/), desenvolvido como parte da trilha de aprendizado em Python. O objetivo é simular as operações básicas de um sistema bancário utilizando apenas conceitos fundamentais da linguagem.
+Este projeto é um desafio do bootcamp **Santander - Back-End com Python**, oferecido pela [**Digital Innovation One (DIO)**](https://www.dio.me/). O objetivo é simular as operações básicas de um sistema bancário utilizando apenas conceitos fundamentais da linguagem.
 
 ## Funcionalidades
 
@@ -45,5 +44,5 @@ python sistemabancario.py
 ---
 
 <p align="center">
-  Desenvolvido durante o bootcamp da <a href="https://www.dio.me/">DIO</a>.
+  Desenvolvido durante o bootcamp <strong>Santander - Back-End com Python</strong> pela <a href="https://www.dio.me/">DIO</a>.
 </p>
